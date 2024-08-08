@@ -15,7 +15,7 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Employees` (
   `department_id` INT NULL,
   `position` VARCHAR(45) NULL,
   `email` VARCHAR(45) NULL,
-  `phone` INT(15) NULL,
+  `phone` INT(30) NULL,
   `address` VARCHAR(250) NULL,
   PRIMARY KEY (`employee_id`),
   INDEX `department_id_idx` (`department_id` ASC) VISIBLE,
