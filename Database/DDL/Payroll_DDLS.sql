@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS `payroll_analytics_dev`.`Departments`;
 CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Departments` (
   `department_id` INT NOT NULL AUTO_INCREMENT,
   `department_name` VARCHAR(45) NULL,
@@ -5,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Departments` (
   PRIMARY KEY (`department_id`))
 ENGINE = InnoDB;
 
+DROP TABLE IF EXISTS `payroll_analytics_dev`.`Employees`; 
 CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Employees` (
   `employee_id` INT NOT NULL,
   `first_name` VARCHAR(45) NULL,
@@ -26,6 +28,7 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Employees` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
+DROP TABLE IF EXISTS `payroll_analytics_dev`.`Positions`;
 CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Positions` (
   `Position_id` INT NOT NULL AUTO_INCREMENT,
   `Position_name` VARCHAR(45) NULL,
@@ -40,7 +43,8 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Positions` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
-CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`SDepartmentsalaries` (
+DROP TABLE IF EXISTS `payroll_analytics_dev`.`Salaries`;
+CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Salaries` (
   `salary_id` INT NOT NULL AUTO_INCREMENT,
   `employee_id` INT NULL,
   `base_salary` DECIMAL(10,2) NULL,
@@ -56,6 +60,7 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`SDepartmentsalaries` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
+DROP TABLE IF EXISTS `payroll_analytics_dev`.`Bonuses`;
 CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Bonuses` (
   `bonus_id` INT NOT NULL AUTO_INCREMENT,
   `employee_id` INT NULL,
@@ -71,6 +76,7 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Bonuses` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
+DROP TABLE IF EXISTS `payroll_analytics_dev`.`Deductions`;
 CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Deductions` (
   `deduction_id` INT NOT NULL AUTO_INCREMENT,
   `employee_id` INT NULL,
@@ -86,6 +92,7 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Deductions` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
+DROP TABLE IF EXISTS `payroll_analytics_dev`.`Payroll`;
 CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Payroll` (
   `payroll_id` INT NOT NULL AUTO_INCREMENT,
   `employee_id` INT NULL,
@@ -105,6 +112,8 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Payroll` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
+
+DROP TABLE IF EXISTS `payroll_analytics_dev`.`Timesheets`;
 CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Timesheets` (
   `timesheet_id` INT NOT NULL AUTO_INCREMENT,
   `employee_id` INT NULL,
@@ -120,6 +129,8 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Timesheets` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
+
+DROP TABLE IF EXISTS `payroll_analytics_dev`.`Attendance`;
 CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Attendance` (
   `attendance_id` INT NOT NULL AUTO_INCREMENT,
   `employee_id` INT NULL,
@@ -134,6 +145,8 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Attendance` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
+
+DROP TABLE IF EXISTS `payroll_analytics_dev`.`LeaveRequests`;
 CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`LeaveRequests` (
   `leave_request_id` INT NOT NULL AUTO_INCREMENT,
   `employee_id` INT NULL,
@@ -151,6 +164,7 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`LeaveRequests` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
+DROP TABLE IF EXISTS `payroll_analytics_dev`.`Benefits`;
 CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Benefits` (
   `benefit_id` INT NOT NULL AUTO_INCREMENT,
   `employee_id` INT NULL,
@@ -167,6 +181,7 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Benefits` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
+DROP TABLE IF EXISTS `payroll_analytics_dev`.`TaxRates`;
 CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`TaxRates` (
   `taxrate_id` INT NOT NULL AUTO_INCREMENT,
   `effective_date` DATE NULL,
@@ -174,6 +189,8 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`TaxRates` (
   PRIMARY KEY (`taxrate_id`))
 ENGINE = InnoDB;
 
+
+DROP TABLE IF EXISTS `payroll_analytics_dev`.`PerformanceReviews`;
 CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`PerformanceReviews` (
   `review_id` INT NOT NULL AUTO_INCREMENT,
   `employee_id` INT NULL,
