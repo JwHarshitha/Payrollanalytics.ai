@@ -1,0 +1,501 @@
+employee_id,leave_type,start_date,end_date,reason,status
+1,Maternity/Paternity Leave,2023-11-27,2023-12-12,Age international inside room anyone small.,Pending
+1,Sick Leave,2018-07-25,2018-08-01,My probably candidate hard.,Rejected
+1,Sick Leave,2018-06-10,2018-06-14,Recognize time suddenly either.,Approved
+1,Vacation,2019-05-04,2019-05-12,Probably generation little itself.,Pending
+1,Sick Leave,2018-10-02,2018-10-09,News home impact enter.,Approved
+2,Vacation,2021-03-11,2021-03-14,They choose live control rest.,Pending
+2,Vacation,2018-10-05,2018-10-15,Kitchen leg he remember.,Pending
+2,Maternity/Paternity Leave,2018-10-20,2018-10-25,Should outside until public left and any.,Approved
+2,Sick Leave,2016-09-22,2016-09-28,Will choice if research degree.,Rejected
+2,Vacation,2018-11-14,2018-11-20,System concern magazine.,Rejected
+3,Sick Leave,2022-11-15,2022-11-28,Realize morning other six employee score politics.,Approved
+3,Sick Leave,2023-04-12,2023-04-19,Would manage plant budget take on budget.,Rejected
+3,Maternity/Paternity Leave,2019-03-21,2019-03-27,Television today concern red force affect letter.,Approved
+3,Sick Leave,2017-05-30,2017-06-05,Seven real whatever alone TV.,Rejected
+3,Maternity/Paternity Leave,2018-06-19,2018-06-22,Test quickly part modern no lead.,Approved
+4,Maternity/Paternity Leave,2017-11-15,2017-11-17,Mind including wind rich successful degree.,Pending
+4,Sick Leave,2024-03-03,2024-03-05,Prevent street finish including simply generation mean.,Approved
+4,Maternity/Paternity Leave,2017-04-04,2017-04-10,Mrs term increase else spend.,Approved
+4,Sick Leave,2020-04-18,2020-04-20,Reach table order reduce thank above forget school.,Pending
+4,Vacation,2021-06-29,2021-07-03,Might nice trouble heavy heavy north.,Approved
+5,Maternity/Paternity Leave,2021-11-03,2021-11-05,Back central perhaps soon receive probably card.,Rejected
+5,Vacation,2023-05-15,2023-05-25,Child shake soldier read onto many visit finish.,Approved
+5,Vacation,2022-12-08,2022-12-21,Who relate south practice admit beyond worker.,Rejected
+5,Vacation,2018-09-25,2018-09-30,Century summer need forget job for treat notice.,Pending
+5,Sick Leave,2016-11-09,2016-11-23,Know view appear ball table today.,Rejected
+6,Vacation,2018-11-19,2018-12-04,Property bit gas Republican.,Approved
+6,Vacation,2017-12-14,2017-12-19,Short sense majority glass.,Pending
+6,Vacation,2015-09-03,2015-09-10,Article class point issue.,Pending
+6,Vacation,2017-02-27,2017-03-05,Positive kid court maybe.,Pending
+6,Vacation,2019-10-09,2019-10-10,It always economy even.,Approved
+7,Vacation,2023-05-04,2023-05-09,Expert beat career fund sense spring itself.,Pending
+7,Maternity/Paternity Leave,2018-06-27,2018-06-29,Tv account require power strong lead.,Approved
+7,Sick Leave,2015-12-15,2015-12-26,Between floor lose realize.,Pending
+7,Sick Leave,2016-04-29,2016-05-07,West note hundred activity fight doctor.,Pending
+7,Maternity/Paternity Leave,2021-09-04,2021-09-10,Before employee special class whose newspaper tend.,Pending
+8,Maternity/Paternity Leave,2023-04-20,2023-04-25,Laugh watch suggest individual.,Rejected
+8,Vacation,2022-02-12,2022-02-14,Stay field responsibility pass as movement.,Rejected
+8,Vacation,2019-10-28,2019-11-04,Grow able success record.,Pending
+8,Vacation,2016-04-08,2016-04-22,Health exactly kid shoulder tend manager.,Approved
+8,Maternity/Paternity Leave,2014-11-26,2014-11-28,Success quite whatever stay performance rather world public.,Approved
+9,Sick Leave,2017-01-11,2017-01-21,Possible amount for would effort mission.,Rejected
+9,Sick Leave,2024-07-20,2024-08-02,Meeting those example mission.,Pending
+9,Sick Leave,2021-08-08,2021-08-15,As control require thing able.,Pending
+9,Maternity/Paternity Leave,2018-11-25,2018-11-30,Consumer remember appear happen long different career.,Rejected
+9,Maternity/Paternity Leave,2020-06-05,2020-06-13,Special future case get second.,Pending
+10,Sick Leave,2018-09-29,2018-10-03,Low method which claim family while.,Rejected
+10,Sick Leave,2016-11-24,2016-11-28,Laugh option similar use act research TV stay.,Pending
+10,Sick Leave,2021-10-26,2021-10-28,Now rock drug street.,Rejected
+10,Sick Leave,2022-09-12,2022-09-16,Fund shake court front affect office challenge result.,Pending
+10,Vacation,2024-02-24,2024-03-08,Star enter camera itself.,Approved
+11,Sick Leave,2023-07-16,2023-07-23,Thus begin instead great.,Rejected
+11,Sick Leave,2024-01-10,2024-01-13,Analysis action test agency imagine close.,Pending
+11,Vacation,2017-01-02,2017-01-08,Their present through old another eight person system.,Approved
+11,Sick Leave,2018-12-23,2018-12-28,Card yeah reduce western common.,Approved
+11,Sick Leave,2014-10-13,2014-10-28,Almost political far million big there why knowledge.,Pending
+12,Maternity/Paternity Leave,2023-07-03,2023-07-16,Great head movement store off mouth interview.,Approved
+12,Sick Leave,2024-02-01,2024-02-03,Popular response can spring in probably health evening.,Pending
+12,Maternity/Paternity Leave,2017-01-15,2017-01-20,One Mr firm voice question peace house.,Approved
+12,Vacation,2018-01-26,2018-02-02,Play key from nature benefit.,Rejected
+12,Vacation,2022-07-03,2022-07-12,Wear Mr party himself worry air party.,Pending
+13,Vacation,2019-08-28,2019-09-12,Us huge because lawyer.,Rejected
+13,Vacation,2019-10-04,2019-10-17,Tough two season watch three listen.,Pending
+13,Sick Leave,2019-08-12,2019-08-22,Race first out including four education international.,Pending
+13,Maternity/Paternity Leave,2022-09-21,2022-09-29,Radio too good happen.,Approved
+13,Maternity/Paternity Leave,2021-07-11,2021-07-13,Hotel idea final describe skin keep possible.,Approved
+14,Maternity/Paternity Leave,2017-10-12,2017-10-27,Mother star some large this car full.,Rejected
+14,Sick Leave,2024-07-07,2024-07-22,Pull appear practice degree peace.,Rejected
+14,Maternity/Paternity Leave,2022-05-31,2022-06-08,Impact nation field management later particularly able.,Approved
+14,Sick Leave,2024-01-11,2024-01-12,First gun never speech get leader study.,Rejected
+14,Vacation,2017-11-17,2017-11-19,Woman later born certain event.,Rejected
+15,Maternity/Paternity Leave,2020-04-24,2020-04-25,Professional less campaign imagine represent international.,Approved
+15,Sick Leave,2024-03-08,2024-03-21,Wrong person several conference to shoulder.,Approved
+15,Sick Leave,2022-09-16,2022-10-01,Require month Democrat democratic success coach maybe.,Rejected
+15,Vacation,2023-11-27,2023-11-30,Structure born various yard.,Rejected
+15,Sick Leave,2022-10-20,2022-10-31,From every dog treat these outside yard.,Pending
+16,Maternity/Paternity Leave,2022-03-15,2022-03-19,Even once practice form boy southern chance.,Approved
+16,Maternity/Paternity Leave,2021-03-08,2021-03-10,Voice story something score measure process drop.,Rejected
+16,Sick Leave,2019-03-01,2019-03-13,Accept stage involve product happy base natural.,Approved
+16,Maternity/Paternity Leave,2019-06-30,2019-07-15,Sell term bar service he drug.,Rejected
+16,Vacation,2015-10-09,2015-10-22,Return conference different month live.,Approved
+17,Vacation,2016-03-18,2016-03-22,Remain each process hard when.,Pending
+17,Sick Leave,2023-03-28,2023-03-31,Various position information top notice argue prepare.,Rejected
+17,Maternity/Paternity Leave,2019-10-25,2019-11-04,Ability list relationship magazine individual cup.,Pending
+17,Maternity/Paternity Leave,2015-08-23,2015-08-31,To federal skin party man.,Pending
+17,Sick Leave,2022-12-26,2023-01-08,Resource realize service item.,Pending
+18,Sick Leave,2022-08-17,2022-08-28,Offer accept response success attention result.,Approved
+18,Maternity/Paternity Leave,2023-07-17,2023-07-18,Rich until describe third more leader east.,Approved
+18,Vacation,2018-11-30,2018-12-11,Professional race opportunity spring memory.,Pending
+18,Sick Leave,2024-03-03,2024-03-05,Season late economy debate picture some.,Rejected
+18,Vacation,2014-09-14,2014-09-24,Later management drop service.,Rejected
+19,Vacation,2015-04-18,2015-05-01,Attorney knowledge specific occur good as foot.,Rejected
+19,Vacation,2015-10-29,2015-11-05,Hear significant major.,Pending
+19,Maternity/Paternity Leave,2022-01-23,2022-01-25,Music rich quickly design sometimes history child morning.,Rejected
+19,Vacation,2016-12-06,2016-12-19,Economic next foot week tend.,Approved
+19,Sick Leave,2018-08-31,2018-09-01,Never education service meet professional.,Rejected
+20,Vacation,2017-07-22,2017-08-06,Forget feel including simple operation foot those career.,Pending
+20,Vacation,2016-09-06,2016-09-08,Baby air why resource special show book figure.,Pending
+20,Vacation,2018-02-06,2018-02-17,What decision research table.,Approved
+20,Maternity/Paternity Leave,2019-09-28,2019-10-07,Report listen room serve always likely drop training.,Approved
+20,Sick Leave,2023-09-01,2023-09-06,Consumer present finally interview herself recently.,Rejected
+21,Vacation,2015-11-26,2015-12-10,Appear return expert exactly enter discussion test.,Pending
+21,Sick Leave,2021-03-20,2021-03-30,Conference while anything.,Rejected
+21,Maternity/Paternity Leave,2022-01-21,2022-01-27,After thousand goal federal throughout line sure.,Pending
+21,Sick Leave,2015-07-15,2015-07-27,Hundred spring success be fish good start still.,Pending
+21,Vacation,2015-04-30,2015-05-10,House executive technology sound.,Rejected
+22,Maternity/Paternity Leave,2016-01-05,2016-01-15,Be along customer thank cultural.,Approved
+22,Maternity/Paternity Leave,2016-12-11,2016-12-22,Board goal what author class life since however.,Approved
+22,Vacation,2015-01-04,2015-01-17,They actually car available modern try system.,Pending
+22,Sick Leave,2023-12-20,2023-12-27,Her war year artist.,Approved
+22,Sick Leave,2018-02-11,2018-02-25,Artist fear fight PM for.,Approved
+23,Vacation,2014-11-25,2014-12-03,Or admit according agree provide would.,Rejected
+23,Maternity/Paternity Leave,2014-12-17,2014-12-18,Officer southern pay Republican style admit.,Approved
+23,Vacation,2016-05-23,2016-05-27,Them represent member sell tend.,Approved
+23,Sick Leave,2017-11-07,2017-11-11,Newspaper professional more billion fear national.,Rejected
+23,Maternity/Paternity Leave,2018-07-19,2018-08-03,Human to building man what four.,Pending
+24,Maternity/Paternity Leave,2015-06-20,2015-07-03,Raise game plant magazine.,Rejected
+24,Vacation,2022-08-15,2022-08-21,Capital democratic watch discussion trip long cut.,Approved
+24,Maternity/Paternity Leave,2021-07-13,2021-07-19,Civil even news suggest guy art share.,Rejected
+24,Maternity/Paternity Leave,2023-08-12,2023-08-24,Land education choice.,Rejected
+24,Maternity/Paternity Leave,2020-02-14,2020-02-26,Prevent everybody exactly.,Pending
+25,Sick Leave,2015-11-01,2015-11-06,Born trade meeting wear think picture the.,Rejected
+25,Sick Leave,2016-01-11,2016-01-13,Poor including relate break.,Approved
+25,Vacation,2015-02-18,2015-02-27,Institution personal local without girl capital off.,Rejected
+25,Maternity/Paternity Leave,2021-03-16,2021-03-19,Thing stay worker return region.,Pending
+25,Vacation,2015-12-15,2015-12-26,Hear end technology air.,Pending
+26,Vacation,2021-04-19,2021-04-24,Within she history near feeling.,Rejected
+26,Vacation,2017-12-17,2017-12-30,You focus western along.,Rejected
+26,Vacation,2024-04-19,2024-04-26,Reduce central seven first discover.,Rejected
+26,Sick Leave,2015-07-23,2015-08-02,Kitchen everyone difference letter least those speech idea.,Approved
+26,Maternity/Paternity Leave,2017-12-29,2018-01-06,Lose travel business interview.,Pending
+27,Maternity/Paternity Leave,2017-01-23,2017-02-07,Leader year whose and quality left artist total.,Rejected
+27,Maternity/Paternity Leave,2021-05-18,2021-05-29,Left determine garden public region.,Approved
+27,Maternity/Paternity Leave,2023-07-02,2023-07-16,Card yes despite.,Approved
+27,Vacation,2022-06-22,2022-06-27,Participant shoulder area.,Pending
+27,Maternity/Paternity Leave,2022-07-18,2022-07-23,Evening collection main American officer nor research let.,Pending
+28,Vacation,2020-06-27,2020-07-10,Politics national follow would write later.,Pending
+28,Vacation,2022-11-16,2022-12-01,Once information government lawyer country.,Pending
+28,Sick Leave,2016-11-03,2016-11-06,Approach mother cell up.,Pending
+28,Sick Leave,2017-07-10,2017-07-21,Ball social what kid.,Pending
+28,Maternity/Paternity Leave,2019-10-04,2019-10-09,He let cold.,Rejected
+29,Sick Leave,2017-07-09,2017-07-18,System body use know particularly stop.,Approved
+29,Maternity/Paternity Leave,2014-11-06,2014-11-08,Yet sign certainly area scene remain series over.,Rejected
+29,Maternity/Paternity Leave,2019-11-07,2019-11-20,Can least test the.,Rejected
+29,Maternity/Paternity Leave,2022-02-18,2022-02-25,Wife man western man.,Approved
+29,Maternity/Paternity Leave,2024-01-20,2024-01-27,Animal notice just where current several executive.,Pending
+30,Sick Leave,2023-07-05,2023-07-07,Interview add mother base.,Rejected
+30,Vacation,2016-06-16,2016-06-24,Minute own voice article officer.,Rejected
+30,Maternity/Paternity Leave,2023-05-31,2023-06-07,Upon all everyone between.,Rejected
+30,Maternity/Paternity Leave,2017-09-05,2017-09-15,Fall sit manage may business.,Rejected
+30,Vacation,2016-10-31,2016-11-09,Involve tough will dog its white.,Rejected
+31,Maternity/Paternity Leave,2018-12-29,2019-01-10,Parent decision own significant.,Rejected
+31,Vacation,2023-01-31,2023-02-15,Civil this analysis yourself most important.,Pending
+31,Maternity/Paternity Leave,2016-12-16,2016-12-26,Car likely itself simply answer place.,Rejected
+31,Sick Leave,2016-12-03,2016-12-04,Protect office side.,Rejected
+31,Maternity/Paternity Leave,2022-03-02,2022-03-17,Executive writer cause product.,Pending
+32,Vacation,2021-01-30,2021-02-02,Wonder him sure us figure.,Approved
+32,Maternity/Paternity Leave,2024-01-12,2024-01-20,Surface case call least great.,Rejected
+32,Maternity/Paternity Leave,2019-10-11,2019-10-25,Home herself feeling parent medical writer.,Rejected
+32,Vacation,2019-09-12,2019-09-23,Seek actually still effect quite member friend.,Pending
+32,Vacation,2018-05-15,2018-05-25,Institution particular pick fish better western produce career.,Rejected
+33,Vacation,2018-05-08,2018-05-16,Note act meeting amount wall number edge.,Rejected
+33,Sick Leave,2014-12-29,2015-01-11,Woman east during pretty avoid.,Approved
+33,Vacation,2023-12-15,2023-12-26,Generation loss capital film become these focus.,Approved
+33,Vacation,2024-01-28,2024-02-04,Billion Republican range bad letter official meet.,Pending
+33,Vacation,2016-05-20,2016-06-01,Former shake ten wait.,Approved
+34,Maternity/Paternity Leave,2017-03-21,2017-03-23,Friend stand tax fire thing fight Mrs.,Pending
+34,Sick Leave,2023-11-05,2023-11-19,Play ok business add institution result.,Pending
+34,Vacation,2021-03-23,2021-03-28,Rule student must catch stand hit various.,Rejected
+34,Vacation,2020-03-12,2020-03-15,Red song most race office address.,Approved
+34,Vacation,2022-03-14,2022-03-22,Low kind throw store certainly.,Rejected
+35,Sick Leave,2022-04-11,2022-04-17,Then let like worker among.,Pending
+35,Sick Leave,2018-04-02,2018-04-09,Western price what side.,Rejected
+35,Vacation,2016-11-30,2016-12-15,Third prove admit on successful.,Pending
+35,Sick Leave,2016-01-11,2016-01-24,Enter investment board body.,Rejected
+35,Sick Leave,2021-06-30,2021-07-02,Focus former true again age in.,Approved
+36,Maternity/Paternity Leave,2022-06-24,2022-07-03,Western paper close senior court.,Approved
+36,Maternity/Paternity Leave,2017-03-03,2017-03-18,Go bill test main inside maintain.,Rejected
+36,Vacation,2023-01-23,2023-02-04,Space mean how minute ground much property.,Rejected
+36,Vacation,2016-12-28,2017-01-07,Military daughter manage catch material conference produce.,Pending
+36,Maternity/Paternity Leave,2018-10-24,2018-11-05,Better value coach particularly group technology.,Rejected
+37,Sick Leave,2021-06-29,2021-07-03,Hospital part building that to I she.,Approved
+37,Sick Leave,2021-10-23,2021-11-05,Than it simply man our exist day class.,Approved
+37,Sick Leave,2019-03-23,2019-04-06,Focus section ago open against sort itself.,Rejected
+37,Maternity/Paternity Leave,2021-08-24,2021-09-07,Tax everybody section stay process lead.,Pending
+37,Sick Leave,2018-08-18,2018-08-27,Ball down resource president buy movement.,Pending
+38,Vacation,2016-12-26,2016-12-27,Save environmental east act number drug hard.,Approved
+38,Sick Leave,2024-01-23,2024-01-30,Special administration me thank.,Pending
+38,Maternity/Paternity Leave,2014-11-07,2014-11-18,Might sometimes enough well no go upon possible.,Approved
+38,Vacation,2016-08-01,2016-08-08,Close pick concern result sing bag relationship.,Pending
+38,Sick Leave,2018-08-29,2018-08-31,Their answer represent keep suddenly meeting.,Approved
+39,Vacation,2024-04-14,2024-04-16,Each few no small its movie.,Pending
+39,Sick Leave,2019-10-06,2019-10-15,If paper source world customer.,Pending
+39,Maternity/Paternity Leave,2023-05-17,2023-05-28,Pay those research rise.,Rejected
+39,Vacation,2019-08-01,2019-08-10,Certainly rise none term.,Approved
+39,Vacation,2017-08-22,2017-08-23,Many special opportunity.,Rejected
+40,Vacation,2023-11-08,2023-11-16,Everyone research public.,Rejected
+40,Sick Leave,2020-05-22,2020-05-30,Democrat group especially office.,Approved
+40,Sick Leave,2015-08-04,2015-08-18,Community my yet believe their wear seven.,Rejected
+40,Sick Leave,2021-10-18,2021-10-27,Market water someone.,Pending
+40,Vacation,2019-11-21,2019-12-05,Include senior learn despite audience road police.,Pending
+41,Sick Leave,2020-04-23,2020-04-25,Pull beat old challenge commercial.,Rejected
+41,Vacation,2020-05-31,2020-06-12,Politics nor activity decision artist audience.,Pending
+41,Sick Leave,2020-09-26,2020-09-30,Its space live sense.,Pending
+41,Maternity/Paternity Leave,2018-02-16,2018-02-22,Food establish result method.,Approved
+41,Maternity/Paternity Leave,2023-07-18,2023-07-22,Most few reason hospital strategy consumer police statement.,Rejected
+42,Vacation,2018-05-13,2018-05-28,Partner their organization cause behind improve environmental foreign.,Rejected
+42,Sick Leave,2020-04-11,2020-04-21,Sing side moment improve itself speech hundred.,Rejected
+42,Sick Leave,2017-08-09,2017-08-21,Spend test magazine part day protect.,Pending
+42,Vacation,2021-07-12,2021-07-25,High upon prepare method sort.,Rejected
+42,Vacation,2015-12-15,2015-12-16,Sell through sell production different.,Pending
+43,Maternity/Paternity Leave,2021-11-04,2021-11-15,Operation well believe practice hospital first.,Rejected
+43,Sick Leave,2019-10-12,2019-10-18,Significant son professional.,Pending
+43,Sick Leave,2017-08-20,2017-08-29,Radio forward record collection senior thousand.,Pending
+43,Vacation,2020-07-21,2020-07-31,Amount technology much behavior shake organization kitchen.,Pending
+43,Maternity/Paternity Leave,2018-05-03,2018-05-13,Certainly very store throughout war at.,Pending
+44,Sick Leave,2021-03-03,2021-03-18,Agent two station or generation expert.,Pending
+44,Vacation,2022-10-14,2022-10-17,Film peace alone live nothing.,Approved
+44,Sick Leave,2023-12-23,2024-01-06,Agree middle together party true country.,Pending
+44,Vacation,2015-01-07,2015-01-12,Moment prevent shoulder.,Rejected
+44,Vacation,2018-12-23,2018-12-31,Tend day discussion us.,Pending
+45,Sick Leave,2018-08-15,2018-08-18,Pass physical family fight region through.,Approved
+45,Maternity/Paternity Leave,2020-02-02,2020-02-17,As thus myself consumer them.,Approved
+45,Vacation,2014-11-28,2014-12-03,Clearly good then teacher common true.,Pending
+45,Maternity/Paternity Leave,2020-11-01,2020-11-03,Green pass stage surface listen end.,Pending
+45,Vacation,2019-05-10,2019-05-21,Measure your cell everybody the dream guy.,Approved
+46,Vacation,2023-02-09,2023-02-22,Born air within pretty first sea before.,Pending
+46,Sick Leave,2021-02-04,2021-02-11,Worker now type bad seat compare scientist charge.,Approved
+46,Maternity/Paternity Leave,2021-11-06,2021-11-18,Although court human lose phone.,Pending
+46,Maternity/Paternity Leave,2016-04-07,2016-04-19,Lead say sure room career message account.,Rejected
+46,Maternity/Paternity Leave,2020-12-11,2020-12-23,Market agreement stay project there.,Pending
+47,Sick Leave,2020-04-02,2020-04-06,Agreement send middle land ten you easy.,Pending
+47,Maternity/Paternity Leave,2018-10-29,2018-11-13,Tax write room author finish American best a.,Approved
+47,Maternity/Paternity Leave,2016-01-18,2016-01-23,Point even mother particular still behavior last field.,Rejected
+47,Sick Leave,2016-08-12,2016-08-20,Alone third prepare.,Approved
+47,Maternity/Paternity Leave,2015-02-28,2015-03-05,Be under need either particular hot certain.,Approved
+48,Maternity/Paternity Leave,2017-08-04,2017-08-10,Like attention hundred style.,Rejected
+48,Maternity/Paternity Leave,2021-07-17,2021-07-31,Half prove small kind baby.,Approved
+48,Vacation,2020-08-11,2020-08-14,Oil stock their unit.,Pending
+48,Sick Leave,2021-04-09,2021-04-21,Who prevent design since police position.,Approved
+48,Maternity/Paternity Leave,2019-08-16,2019-08-30,Own off source quite.,Pending
+49,Vacation,2019-05-29,2019-06-06,Young she although red successful crime whole.,Rejected
+49,Sick Leave,2019-08-30,2019-09-13,History treatment true director quite doctor pull.,Pending
+49,Maternity/Paternity Leave,2020-04-25,2020-05-07,Through would what approach.,Approved
+49,Sick Leave,2021-10-18,2021-10-21,Executive seek stuff.,Approved
+49,Vacation,2019-07-11,2019-07-21,Return character most national reach it resource.,Rejected
+50,Maternity/Paternity Leave,2018-08-08,2018-08-17,Occur court what chair ask likely.,Pending
+50,Vacation,2017-12-10,2017-12-20,Middle easy affect street claim identify so.,Pending
+50,Vacation,2019-11-03,2019-11-05,Reason here network daughter.,Rejected
+50,Sick Leave,2019-06-01,2019-06-07,Ok person him admit bad we.,Rejected
+50,Maternity/Paternity Leave,2021-02-05,2021-02-17,Billion skill test paper floor.,Pending
+51,Vacation,2024-05-09,2024-05-18,Piece network society yes.,Approved
+51,Sick Leave,2020-08-28,2020-09-03,Single per education call.,Rejected
+51,Vacation,2022-11-23,2022-11-24,Walk anyone part race realize number.,Rejected
+51,Sick Leave,2016-07-25,2016-08-02,Modern contain war however soon.,Approved
+51,Vacation,2022-03-25,2022-04-07,Pull eye try yourself base instead.,Approved
+52,Maternity/Paternity Leave,2020-10-29,2020-11-07,Ability peace material Democrat big detail.,Rejected
+52,Vacation,2023-05-18,2023-05-26,Thought office husband word boy how.,Rejected
+52,Sick Leave,2016-10-13,2016-10-15,Cold door shoulder real.,Pending
+52,Sick Leave,2022-05-06,2022-05-18,Someone determine show.,Pending
+52,Sick Leave,2014-11-10,2014-11-22,Chance collection ago hand.,Approved
+53,Vacation,2023-04-06,2023-04-16,Sea benefit away could.,Approved
+53,Maternity/Paternity Leave,2015-01-08,2015-01-22,Should trouble camera resource music.,Approved
+53,Vacation,2022-04-20,2022-04-26,Full staff marriage trial series even power.,Pending
+53,Maternity/Paternity Leave,2021-07-21,2021-07-22,Field example share economic task decide memory.,Pending
+53,Sick Leave,2016-01-19,2016-02-02,Idea threat may cost bit.,Rejected
+54,Vacation,2015-12-24,2015-12-28,Or issue office administration sense.,Approved
+54,Sick Leave,2019-02-19,2019-02-20,Kind me describe son suggest past day cold.,Approved
+54,Maternity/Paternity Leave,2022-12-26,2022-12-29,Career age of worry.,Rejected
+54,Sick Leave,2024-01-01,2024-01-13,Both fight continue along.,Approved
+54,Sick Leave,2017-04-23,2017-04-28,Identify only forward senior price nothing program.,Approved
+55,Sick Leave,2023-04-02,2023-04-10,Those rather purpose only.,Rejected
+55,Vacation,2017-11-15,2017-11-16,Already the church item.,Pending
+55,Sick Leave,2014-11-25,2014-12-03,Education north yeah west large tax.,Rejected
+55,Vacation,2014-09-15,2014-09-17,Cup view life shoulder amount treatment.,Pending
+55,Sick Leave,2016-11-21,2016-11-29,Music available morning task cold.,Rejected
+56,Vacation,2021-02-21,2021-02-26,Art piece town happy address each work choose.,Pending
+56,Vacation,2021-02-09,2021-02-17,Same sound hand number paper way tonight.,Approved
+56,Vacation,2018-04-21,2018-05-05,May task exactly because miss possible yourself.,Approved
+56,Maternity/Paternity Leave,2020-12-19,2021-01-01,Stage keep bad west perform bring meet.,Approved
+56,Sick Leave,2015-10-07,2015-10-11,Wish style reveal response.,Rejected
+57,Maternity/Paternity Leave,2024-04-12,2024-04-17,Director fund kitchen three grow above keep.,Pending
+57,Vacation,2016-01-03,2016-01-18,Seven new quite if check clearly foot.,Rejected
+57,Sick Leave,2022-02-14,2022-02-27,Like main your scientist must far least.,Rejected
+57,Maternity/Paternity Leave,2020-01-08,2020-01-10,Sure blue skill tax however fall.,Rejected
+57,Vacation,2023-11-28,2023-12-02,Popular measure impact book central anything.,Approved
+58,Vacation,2024-01-17,2024-01-21,What go like west share red six.,Approved
+58,Vacation,2015-06-14,2015-06-26,Important memory player moment.,Approved
+58,Maternity/Paternity Leave,2021-10-27,2021-11-07,Which cold look over.,Pending
+58,Maternity/Paternity Leave,2014-09-10,2014-09-17,Put appear fund upon good wrong involve.,Pending
+58,Sick Leave,2015-05-15,2015-05-28,Many clearly bring visit view.,Pending
+59,Sick Leave,2018-02-20,2018-02-21,Probably return group safe.,Approved
+59,Vacation,2020-12-18,2020-12-26,Put attorney behind hope.,Rejected
+59,Maternity/Paternity Leave,2020-04-06,2020-04-21,Difficult leg large dog cause.,Pending
+59,Vacation,2014-08-22,2014-08-28,Life decade oil rest soldier space.,Approved
+59,Maternity/Paternity Leave,2016-02-16,2016-02-22,In want difficult whom individual expert son trade.,Pending
+60,Vacation,2020-11-20,2020-12-01,White positive arrive difference human.,Pending
+60,Maternity/Paternity Leave,2023-05-16,2023-05-18,Song green no strong.,Pending
+60,Maternity/Paternity Leave,2022-01-27,2022-01-31,Ball however operation once management tonight.,Pending
+60,Vacation,2021-03-29,2021-03-30,First type conference in drop on.,Rejected
+60,Maternity/Paternity Leave,2014-11-10,2014-11-15,Worker whose box system.,Rejected
+61,Sick Leave,2020-06-18,2020-06-28,Instead education all economic join television.,Approved
+61,Maternity/Paternity Leave,2023-09-30,2023-10-07,Baby around stay whose.,Rejected
+61,Vacation,2021-04-04,2021-04-10,Age consumer director hot too blue.,Rejected
+61,Sick Leave,2023-03-24,2023-04-06,Decision example believe help.,Pending
+61,Sick Leave,2020-10-08,2020-10-14,Near condition question key.,Pending
+62,Maternity/Paternity Leave,2018-02-17,2018-03-01,Plant record about because alone.,Rejected
+62,Sick Leave,2022-01-24,2022-01-30,Appear old style as.,Approved
+62,Maternity/Paternity Leave,2022-03-19,2022-03-27,Realize street her break up man.,Approved
+62,Vacation,2021-10-01,2021-10-05,Into put difficult mean.,Approved
+62,Maternity/Paternity Leave,2015-10-10,2015-10-24,Citizen avoid western realize lawyer.,Approved
+63,Vacation,2018-12-15,2018-12-24,Understand imagine action free mean put.,Pending
+63,Maternity/Paternity Leave,2021-08-19,2021-08-20,List movement official.,Pending
+63,Maternity/Paternity Leave,2021-09-02,2021-09-13,Defense deal management yes right.,Rejected
+63,Maternity/Paternity Leave,2018-06-24,2018-07-04,Boy number business send bad building.,Rejected
+63,Vacation,2019-11-17,2019-11-20,Reach can investment prevent soldier.,Pending
+64,Sick Leave,2024-07-14,2024-07-20,Serve doctor Republican offer theory wait.,Approved
+64,Sick Leave,2016-10-18,2016-11-01,Special economy them speak radio whom particular.,Approved
+64,Maternity/Paternity Leave,2020-02-21,2020-02-29,Surface life traditional society perform across.,Approved
+64,Sick Leave,2014-11-19,2014-12-03,Sound teacher son kitchen contain seem.,Approved
+64,Sick Leave,2017-12-09,2017-12-22,Play star move house.,Pending
+65,Sick Leave,2014-08-07,2014-08-11,Close treat start certainly.,Rejected
+65,Vacation,2023-05-30,2023-06-05,Walk someone significant style.,Pending
+65,Sick Leave,2019-03-22,2019-03-29,Believe case customer news attack herself bar.,Pending
+65,Vacation,2023-09-02,2023-09-11,Be speech off.,Pending
+65,Vacation,2020-07-01,2020-07-08,Black edge figure produce war kid.,Rejected
+66,Vacation,2019-07-30,2019-08-07,Campaign short force off owner.,Approved
+66,Vacation,2020-08-09,2020-08-13,Sell fill thank serious ask democratic item.,Pending
+66,Maternity/Paternity Leave,2024-06-07,2024-06-09,Fight second song ago.,Rejected
+66,Sick Leave,2023-08-13,2023-08-14,Out front edge us school treat.,Rejected
+66,Maternity/Paternity Leave,2019-10-14,2019-10-27,Production in major.,Approved
+67,Sick Leave,2023-09-07,2023-09-13,Condition your two agreement campaign think various.,Rejected
+67,Sick Leave,2020-06-17,2020-06-29,Part glass how certainly.,Rejected
+67,Vacation,2017-05-27,2017-06-03,Song teacher cause hundred.,Pending
+67,Vacation,2019-03-02,2019-03-13,Great bar surface former catch by your fill.,Rejected
+67,Maternity/Paternity Leave,2018-07-14,2018-07-26,Hard cost provide need debate.,Pending
+68,Vacation,2019-05-26,2019-06-02,Husband hot minute part edge while concern.,Pending
+68,Maternity/Paternity Leave,2019-08-31,2019-09-09,Low project old color street.,Approved
+68,Vacation,2019-11-05,2019-11-08,Worker chair along.,Approved
+68,Maternity/Paternity Leave,2019-04-11,2019-04-23,Just claim campaign policy look.,Rejected
+68,Sick Leave,2014-10-15,2014-10-17,Commercial fear set allow course.,Rejected
+69,Vacation,2017-06-23,2017-06-25,Keep interview voice same.,Pending
+69,Maternity/Paternity Leave,2019-12-03,2019-12-07,Budget common guy phone.,Pending
+69,Maternity/Paternity Leave,2019-04-08,2019-04-16,Something speech toward.,Pending
+69,Sick Leave,2022-12-01,2022-12-16,Seek heart probably contain among.,Approved
+69,Maternity/Paternity Leave,2017-11-05,2017-11-09,Recently next television firm somebody meeting.,Approved
+70,Maternity/Paternity Leave,2023-10-08,2023-10-15,Good scene despite concern figure know.,Rejected
+70,Sick Leave,2019-03-20,2019-04-01,Woman black debate wife necessary sell think southern.,Pending
+70,Vacation,2017-05-19,2017-05-29,Peace prevent assume risk trip.,Pending
+70,Vacation,2020-08-07,2020-08-11,Race degree box standard half.,Pending
+70,Sick Leave,2016-04-10,2016-04-18,Strong imagine stay soldier goal eat.,Approved
+71,Vacation,2024-05-05,2024-05-07,Car third system democratic value.,Rejected
+71,Maternity/Paternity Leave,2017-12-17,2017-12-29,Attack key media miss.,Pending
+71,Vacation,2023-12-10,2023-12-20,Base group someone protect wrong morning.,Pending
+71,Sick Leave,2016-02-23,2016-03-03,Agreement respond lead least key.,Approved
+71,Vacation,2024-03-20,2024-03-22,Seek election year road.,Pending
+72,Vacation,2018-08-06,2018-08-17,Boy artist ability especially.,Approved
+72,Vacation,2021-01-27,2021-02-07,Operation run rise trial office image continue.,Rejected
+72,Vacation,2023-06-15,2023-06-26,Always sister possible.,Rejected
+72,Sick Leave,2023-03-31,2023-04-12,Seven movie learn part.,Approved
+72,Sick Leave,2017-08-01,2017-08-03,Hear scientist build lose.,Approved
+73,Vacation,2024-04-17,2024-04-26,Laugh hand artist at place research account.,Rejected
+73,Vacation,2017-01-04,2017-01-10,Then magazine day catch dream training such.,Approved
+73,Sick Leave,2021-05-21,2021-05-23,Compare identify early production.,Approved
+73,Sick Leave,2020-10-05,2020-10-19,Director series sit development especially shake.,Pending
+73,Sick Leave,2016-09-27,2016-10-10,Sound hundred not.,Rejected
+74,Vacation,2017-07-06,2017-07-10,Part raise walk stage rich I west line.,Approved
+74,Vacation,2018-09-02,2018-09-17,Father wife wish question song degree wrong land.,Rejected
+74,Vacation,2020-06-13,2020-06-18,Ago question center study write.,Approved
+74,Maternity/Paternity Leave,2016-10-04,2016-10-17,Act however catch range.,Pending
+74,Sick Leave,2021-12-01,2021-12-11,Office interview prove let cost.,Pending
+75,Sick Leave,2017-10-31,2017-11-13,Successful under draw tell which establish chair call.,Approved
+75,Sick Leave,2015-05-05,2015-05-13,Certain fear vote its your.,Rejected
+75,Sick Leave,2021-01-12,2021-01-19,Land customer offer manage agree guy company.,Rejected
+75,Maternity/Paternity Leave,2023-03-02,2023-03-08,Memory better last study we.,Rejected
+75,Maternity/Paternity Leave,2018-10-01,2018-10-04,Must these hospital travel morning left common wait.,Rejected
+76,Maternity/Paternity Leave,2023-09-05,2023-09-18,Card require they have.,Approved
+76,Maternity/Paternity Leave,2015-11-28,2015-12-13,Husband thank tree evidence type.,Rejected
+76,Maternity/Paternity Leave,2019-05-23,2019-06-06,Entire seek sound center future.,Pending
+76,Sick Leave,2019-06-16,2019-06-19,Give usually simple us listen I evidence situation.,Approved
+76,Maternity/Paternity Leave,2017-11-22,2017-12-07,Stock action leader region agreement.,Pending
+77,Maternity/Paternity Leave,2016-04-14,2016-04-24,Direction young lay nature expert.,Pending
+77,Vacation,2018-08-25,2018-09-02,They approach from rich hit nation character challenge.,Pending
+77,Sick Leave,2023-02-20,2023-02-28,Way production allow.,Pending
+77,Vacation,2023-08-24,2023-08-31,Threat day success election long child throughout within.,Approved
+77,Sick Leave,2017-12-05,2017-12-13,Work score hard letter trial current.,Rejected
+78,Sick Leave,2015-09-20,2015-09-25,Discussion various partner war yard.,Rejected
+78,Vacation,2022-04-14,2022-04-19,Rest military why approach whole.,Rejected
+78,Sick Leave,2017-01-19,2017-01-31,Trip once group fund four respond.,Pending
+78,Maternity/Paternity Leave,2022-05-05,2022-05-16,Deal choice little of.,Approved
+78,Vacation,2024-04-05,2024-04-13,Also card response next.,Pending
+79,Vacation,2023-08-20,2023-08-22,Offer image here blue floor modern.,Pending
+79,Sick Leave,2022-09-04,2022-09-10,Sometimes prove operation pressure.,Rejected
+79,Vacation,2022-11-17,2022-11-19,Material share manage senior.,Approved
+79,Sick Leave,2017-08-15,2017-08-25,Place race fly vote difficult.,Rejected
+79,Sick Leave,2015-03-12,2015-03-23,Pretty put possible picture lead might guess.,Rejected
+80,Maternity/Paternity Leave,2020-04-29,2020-05-03,Interest common ahead sort.,Approved
+80,Vacation,2024-07-27,2024-07-29,Through several task body game lay thank nothing.,Approved
+80,Vacation,2021-11-29,2021-12-03,South street civil east.,Approved
+80,Maternity/Paternity Leave,2015-06-08,2015-06-21,Open accept education research first.,Rejected
+80,Sick Leave,2024-02-15,2024-02-25,Machine training guess difficult situation.,Rejected
+81,Sick Leave,2019-10-28,2019-10-30,Stock argue to choose ago direction difference.,Approved
+81,Vacation,2023-06-17,2023-06-21,Man choose toward go now.,Rejected
+81,Vacation,2022-02-26,2022-03-12,Good morning out under action.,Pending
+81,Sick Leave,2019-05-17,2019-05-19,Design animal administration reach.,Pending
+81,Maternity/Paternity Leave,2023-09-26,2023-10-10,Conference indicate drive southern radio else ready spring.,Pending
+82,Vacation,2015-11-03,2015-11-06,So blood water.,Rejected
+82,Vacation,2017-05-27,2017-05-31,Discover wrong as stage.,Pending
+82,Maternity/Paternity Leave,2023-01-05,2023-01-20,Rich game tend camera.,Rejected
+82,Maternity/Paternity Leave,2020-01-04,2020-01-10,Hot service do cell election five.,Approved
+82,Sick Leave,2023-10-20,2023-11-03,Then avoid improve first lot region relate.,Pending
+83,Sick Leave,2016-06-19,2016-06-21,Program according dog card ten herself us decide.,Approved
+83,Maternity/Paternity Leave,2023-06-23,2023-06-30,See move baby them.,Rejected
+83,Sick Leave,2021-09-24,2021-10-02,Issue face character wide serious.,Rejected
+83,Vacation,2021-03-21,2021-03-29,Quite relate hand medical she.,Approved
+83,Maternity/Paternity Leave,2022-09-04,2022-09-07,Represent account bad thus skill hard activity.,Pending
+84,Vacation,2014-09-11,2014-09-26,Commercial believe daughter.,Rejected
+84,Maternity/Paternity Leave,2022-04-19,2022-05-03,Structure practice eat support party energy red miss.,Pending
+84,Maternity/Paternity Leave,2016-04-02,2016-04-17,Must price character buy small page.,Pending
+84,Maternity/Paternity Leave,2019-01-11,2019-01-21,Capital mind big about risk tell smile personal.,Approved
+84,Maternity/Paternity Leave,2022-03-13,2022-03-20,Test thought together evidence father.,Approved
+85,Vacation,2017-05-07,2017-05-22,Daughter how western movie choice contain wife.,Rejected
+85,Sick Leave,2018-10-29,2018-11-11,Study truth peace other never attack item authority.,Pending
+85,Vacation,2018-06-02,2018-06-17,Task future wife film out.,Rejected
+85,Sick Leave,2018-03-31,2018-04-05,Point south read loss rock deal medical.,Rejected
+85,Sick Leave,2018-05-16,2018-05-20,Find process financial.,Rejected
+86,Sick Leave,2017-10-05,2017-10-13,Week wait image teach ability.,Rejected
+86,Vacation,2024-04-19,2024-04-20,Ever win language article.,Pending
+86,Maternity/Paternity Leave,2015-07-11,2015-07-21,Network above provide sing space color.,Rejected
+86,Maternity/Paternity Leave,2015-12-30,2016-01-10,Analysis region majority vote.,Pending
+86,Sick Leave,2019-12-10,2019-12-19,Just probably late cost none sound act Democrat.,Pending
+87,Maternity/Paternity Leave,2017-10-06,2017-10-16,Structure various brother church finally inside.,Pending
+87,Vacation,2015-09-07,2015-09-13,Marriage nearly ask thing.,Approved
+87,Vacation,2019-06-28,2019-07-09,Instead front past million.,Approved
+87,Sick Leave,2023-09-07,2023-09-11,Protect speak card buy social.,Rejected
+87,Sick Leave,2023-10-22,2023-11-03,Guess heart point.,Pending
+88,Vacation,2021-01-02,2021-01-11,Yet reveal science reveal bad describe sound.,Approved
+88,Vacation,2015-12-14,2015-12-20,Girl visit future wife money mouth.,Pending
+88,Sick Leave,2020-10-25,2020-10-31,American poor all partner return accept.,Pending
+88,Maternity/Paternity Leave,2021-01-16,2021-01-21,Off attention responsibility charge expect.,Rejected
+88,Sick Leave,2018-06-07,2018-06-17,Down production onto sign religious tree.,Rejected
+89,Maternity/Paternity Leave,2016-02-06,2016-02-07,Again yet no.,Approved
+89,Maternity/Paternity Leave,2024-06-02,2024-06-09,Customer up health eye rate.,Rejected
+89,Sick Leave,2022-05-31,2022-06-12,Center group security majority rather seven.,Approved
+89,Sick Leave,2022-08-18,2022-08-22,Can compare will later of option whatever.,Approved
+89,Sick Leave,2015-02-01,2015-02-11,Training stuff firm edge movement next.,Approved
+90,Vacation,2018-03-11,2018-03-13,Force by art Mrs.,Approved
+90,Maternity/Paternity Leave,2024-08-01,2024-08-13,Collection find memory later couple ask.,Rejected
+90,Maternity/Paternity Leave,2019-10-08,2019-10-22,Share up investment own.,Pending
+90,Vacation,2014-09-27,2014-10-05,Often off car age great Congress check.,Rejected
+90,Maternity/Paternity Leave,2015-01-26,2015-02-06,Mouth these difference.,Pending
+91,Vacation,2019-02-15,2019-02-16,Bar opportunity why quickly buy three.,Rejected
+91,Vacation,2020-08-11,2020-08-23,Deep player coach make back.,Pending
+91,Maternity/Paternity Leave,2021-08-08,2021-08-17,Your certainly huge say.,Pending
+91,Vacation,2017-12-19,2017-12-30,News ball begin vote would.,Rejected
+91,Maternity/Paternity Leave,2017-12-17,2017-12-23,Information stay I office.,Pending
+92,Vacation,2019-06-30,2019-07-02,Rich recently history several purpose other.,Approved
+92,Maternity/Paternity Leave,2015-04-02,2015-04-08,Once series son follow stuff.,Rejected
+92,Vacation,2021-05-31,2021-06-07,Chair wrong catch professor.,Rejected
+92,Sick Leave,2018-12-24,2018-12-31,Language they central look campaign upon.,Approved
+92,Vacation,2016-10-01,2016-10-10,Now outside sound federal with dark agent.,Pending
+93,Maternity/Paternity Leave,2019-03-05,2019-03-19,Left statement network must dark.,Approved
+93,Vacation,2019-11-15,2019-11-19,Month why interview everybody.,Approved
+93,Sick Leave,2015-11-29,2015-11-30,Pass other lead view hard current.,Rejected
+93,Maternity/Paternity Leave,2019-10-19,2019-10-23,Store suddenly your successful nice learn certain personal.,Rejected
+93,Vacation,2015-02-23,2015-03-06,Than own finish keep coach together.,Rejected
+94,Sick Leave,2018-07-06,2018-07-13,Forget card must against.,Rejected
+94,Vacation,2017-03-03,2017-03-04,Goal more we.,Pending
+94,Maternity/Paternity Leave,2023-08-24,2023-08-29,Recently kind can whole environmental assume image check.,Pending
+94,Sick Leave,2015-04-19,2015-04-20,Woman happen machine yard teacher.,Rejected
+94,Maternity/Paternity Leave,2021-12-25,2022-01-03,Friend election yet song north we into.,Pending
+95,Vacation,2017-08-28,2017-09-08,Physical practice he protect.,Rejected
+95,Sick Leave,2019-10-01,2019-10-15,Want deal science thought shoulder treatment.,Rejected
+95,Sick Leave,2021-08-05,2021-08-12,Commercial fact heavy blood occur financial everyone.,Pending
+95,Vacation,2017-07-06,2017-07-15,Produce nothing bag to.,Pending
+95,Sick Leave,2020-05-06,2020-05-20,Race eye we from treat.,Pending
+96,Sick Leave,2017-09-29,2017-09-30,Administration happy low card instead.,Approved
+96,Maternity/Paternity Leave,2018-12-29,2019-01-06,Positive number too risk tend once check.,Pending
+96,Sick Leave,2022-06-13,2022-06-24,Almost seat medical drive.,Approved
+96,Maternity/Paternity Leave,2019-03-14,2019-03-24,Picture Congress hospital draw it child support.,Pending
+96,Maternity/Paternity Leave,2019-07-26,2019-08-06,Least within according.,Pending
+97,Sick Leave,2021-01-13,2021-01-20,Number ago standard.,Approved
+97,Maternity/Paternity Leave,2017-10-15,2017-10-19,Ok each letter road remember center.,Approved
+97,Vacation,2021-08-05,2021-08-15,Sound majority by community.,Pending
+97,Vacation,2023-02-18,2023-02-23,Scene take line.,Approved
+97,Sick Leave,2017-10-05,2017-10-19,Tax short more professor woman word.,Pending
+98,Sick Leave,2015-05-18,2015-05-28,From whatever reveal drug us job.,Approved
+98,Vacation,2020-09-21,2020-09-25,Type amount support accept.,Pending
+98,Vacation,2019-08-07,2019-08-13,Financial eye tonight including sea feeling.,Approved
+98,Vacation,2020-02-08,2020-02-14,Well open pull executive card.,Rejected
+98,Sick Leave,2024-07-09,2024-07-15,Sure result agree among good create son fish.,Rejected
+99,Maternity/Paternity Leave,2015-09-06,2015-09-15,Group item social tax dinner.,Pending
+99,Vacation,2024-07-17,2024-07-27,Professional prove him figure move society represent shoulder.,Rejected
+99,Maternity/Paternity Leave,2016-09-11,2016-09-16,Read firm hear fund song.,Approved
+99,Maternity/Paternity Leave,2017-06-19,2017-06-22,Police short develop case week security.,Approved
+99,Sick Leave,2024-04-30,2024-05-11,Amount recently picture pretty win special worry stage.,Pending
+100,Maternity/Paternity Leave,2015-11-15,2015-11-22,Owner cost often example present.,Rejected
+100,Vacation,2015-10-13,2015-10-23,Oil whose nearly since table.,Approved
+100,Maternity/Paternity Leave,2017-01-01,2017-01-04,Radio newspaper world sister figure system.,Pending
+100,Maternity/Paternity Leave,2020-12-30,2021-01-08,Nation address water type agency.,Approved
+100,Maternity/Paternity Leave,2016-05-13,2016-05-22,Paper culture stop still than fear.,Pending
