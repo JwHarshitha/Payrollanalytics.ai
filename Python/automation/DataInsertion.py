@@ -1,7 +1,6 @@
 
 import datetime
 import pandas as pd
-import mysql.connector
 import faker
 import random
 import re

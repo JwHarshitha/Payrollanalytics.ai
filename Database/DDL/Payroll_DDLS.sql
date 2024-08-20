@@ -66,7 +66,7 @@ CREATE TABLE IF NOT EXISTS `payroll_analytics_dev`.`Bonuses` (
   `employee_id` INT NULL,
   `bonus_amount` DECIMAL(10,2) NULL,
   `reason` VARCHAR(255) NULL,
-  `date_given` DATE NULL,
+  `bonus_date` DATE NULL,
   PRIMARY KEY (`bonus_id`),
   INDEX `empID_bonus_Cnstrnt_idx` (`employee_id` ASC) VISIBLE,
   CONSTRAINT `empID_bonus_Cnstrnt`
