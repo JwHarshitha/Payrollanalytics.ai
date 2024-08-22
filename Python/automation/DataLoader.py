@@ -4,20 +4,12 @@ from sqlalchemy import create_engine, text
 import urllib.parse
 import time
 
-# Define your connection parameters
-username = 'jwalaharshitha'
-password = 'Tredence@123'  # Password with special characters
-host = 'localhost'
-database_name = 'payroll_analytics_dev'
-
-# URL-encode the password to handle special characters
-encoded_password = urllib.parse.quote_plus(password)
-connection_string = f'mysql+mysqlconnector://{username}:{encoded_password}@{host}/{database_name}'
-engine = create_engine(connection_string)
-folder_path = '/Users/Harshitha/Desktop/Payroll_analytics/Payrollanalytics.ai/Python/automation/Datasets'  # Adjust the folder path as needed
-
 class DataLoader:
-    def __init__(self):
+    def __init__(self,username = 'jwalaharshitha', password = 'Tredence@123',host = 'localhost', database_name = 'payroll_analytics_dev'):
+        self.username=username
+        self.password=password
+        self.host=host
+        self.database_name=database_name
         self.table_names = []
         self.file_names = []
         self.row_counts = []
@@ -28,8 +20,11 @@ class DataLoader:
         self.load_times = []
 
         
-    def data_loading(self):
-    # Loop through all CSV files in the folder
+    def data_loading(self,folder_path = '/Users/Harshitha/Desktop/Payroll_analytics/Payrollanalytics.ai/Python/automation/Datasets' ):
+        encoded_password = urllib.parse.quote_plus(self.password)
+        connection_string = f'mysql+mysqlconnector://{self.username}:{encoded_password}@{self.host}/{self.database_name}'
+        engine = create_engine(connection_string)
+        # Loop through all CSV files in the folder
         for file_name in os.listdir(folder_path):
             file_path = os.path.join(folder_path, file_name)
             if os.path.isfile(file_path) and file_name.endswith('.csv'):
@@ -87,16 +82,11 @@ class DataLoader:
             'created_date': self.insert_dates,
             'updated_date':None
         })
+        self.summary_df.to_sql('DataQualityMetrics', con=engine, if_exists='append', index=False)
         return self.summary_df
 
-def data_quality_metrics(summary_df):
-    summary_df.to_sql('DataQualityMetrics', con=engine, if_exists='append', index=False)
-
-
-if __name__ == '__main__':    
-    # Print or save the summary DataFrame
-    DataLoading=DataLoader()
-    summary_df=DataLoading.data_loading()
-    data_quality_metrics(summary_df)
-    # summary_df.shape
-    print("Loaded Data Quality Metrics")
+# if __name__ == '__main__':    
+#     # Print or save the summary DataFrame
+#     DataLoading=DataLoader()
+#     DataLoading.data_loading()
+#     print("Loaded Data Quality Metrics")
